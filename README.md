@@ -38,12 +38,9 @@
     <code><img title="Kubernetes" height="35" src="./icons/kubernetes.svg"></code>
 </p>
 <h1 align="center">GitHub Stats</h1>
-<p align="center">
-<img src="https://readme-stats-cwvn.vercel.app/api?username=v1-k&show_icons=true&count_private=true&theme=transparent">
-</p>
 
 <p align="center">
-<img src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=v1-k&layout=compact&langs_count=12&count-private=true&hide=jupyter%20notebook&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1-k&layout=compact&langs_count=12&count-private=true&hide=jupyter%20notebook&theme=transparent">
 </p>
 
 
