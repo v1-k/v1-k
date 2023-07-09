@@ -39,7 +39,7 @@
 </p>
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
-<img src="https://readme-stats-cwvn.vercel.app/api?username=v1-k&show_icons=true&count_private=true&theme=transparent&custom_title=v1-k Github stats">
+<img src="https://readme-stats-cwvn.vercel.app/api?username=v1-k&show_icons=true&count_private=true&theme=transparent">
 </p>
 
 <p align="center">
