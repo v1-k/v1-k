@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinitkumar93/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
-</p>
 </br>
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
 <p align="center">
