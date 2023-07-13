@@ -35,7 +35,7 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1-k&layout=compact&langs_count=12&count-private=true&hide=jupyter%20notebook&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1-k&layout=compact&langs_count=50&count-private=true&hide=jupyter%20notebook&theme=transparent">
 </p>
 
 
