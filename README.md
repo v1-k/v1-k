@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+<h2 >Recent Projects</h2>
+<ul >
+  <li>
+    Short URL Generator
+  </li>
+  <ul>
+    <li>
+      Live <a href="https://stackapex.com" target="_blank">Link</a>
+    </li>
+  </ul>
+</ul>
+
 </br>
+
 <h1 align="center">Languages | Technologies | Frameworks | Tools</h1>
 <p align="center">
   <code><img title="Python" height="35" src="./icons/python.svg"></code>
